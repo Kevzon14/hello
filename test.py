@@ -13,3 +13,13 @@ with open(gandalf_message_file, "w") as file:
     file.write(message)
 
 subprocess.Popen(["notepad.exe", gandalf_message_file])
+subprocess.Popen(["notepad.exe", gandalf_message_file])
+subprocess.Popen(["notepad.exe", gandalf_message_file])
+subprocess.Popen(["notepad.exe", gandalf_message_file])
+subprocess.Popen(["notepad.exe", gandalf_message_file])
+subprocess.Popen(["notepad.exe", gandalf_message_file])
+subprocess.Popen(["notepad.exe", gandalf_message_file])
+subprocess.Popen(["notepad.exe", gandalf_message_file])
+subprocess.Popen(["notepad.exe", gandalf_message_file])
+subprocess.Popen(["notepad.exe", gandalf_message_file])
+subprocess.Popen(["notepad.exe", gandalf_message_file])
